@@ -4,13 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="320b857d-b79b-4602-bb9a-89ef9b85132d" name="Changes" comment="" />
+    <list default="true" id="320b857d-b79b-4602-bb9a-89ef9b85132d" name="Changes" comment="Master created" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="2WtMlzpI3Jv0jOD6q7orSgEy94u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,6 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/G00414253@atu.ie/OneDrive - Atlantic TU/Year2/Object Oriented Programming/Lab 5",
     "onboarding.tips.debug.path": "C:/Users/G00414253@atu.ie/OneDrive - Atlantic TU/Year2/Object Oriented Programming/Lab 5/Lab_5/src/main/java/ie/atu/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
@@ -32,9 +51,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697547580614</updated>
-      <workItem from="1697547581357" duration="8000" />
+      <workItem from="1697547581357" duration="320000" />
     </task>
+    <task id="LOCAL-00001" summary="Master created">
+      <created>1697547775072</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697547775072</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Feature_1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Master created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Master created" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
